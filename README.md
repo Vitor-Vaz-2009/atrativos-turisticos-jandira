@@ -19,3 +19,6 @@ O site mostra pontos turísticos e locais conhecidos da cidade utilizando um lay
 
 - HTML5
 - CSS3
+
+## Desenvolvido pelo aluno:
+Vitor Vaz da Silva
